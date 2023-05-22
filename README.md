@@ -20,7 +20,7 @@ This project is a full-stack web application that mimics the functionality of th
 2. **Sign Up Page:** New users can register for an account by providing the required information.
 3. **Home Page (My Messages):** Users can view and manage their received messages in a user-friendly interface.
 4. **Send Message Page:** Users can compose and send anonymous messages to other users.
-5. **Error Page
+5. **Error Page**
 
 ### Multilingual Support
 The web application offers support for two languages, Arabic and English, to cater to a diverse user base. Users can easily switch between the languages, allowing for a localized user experience.
